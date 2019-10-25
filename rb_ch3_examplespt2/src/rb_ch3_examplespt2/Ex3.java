@@ -1,3 +1,11 @@
+//HEADER
+//Chapter 3 Exercise 3
+//Robert Brinker IV
+//CS160 Fall 2019
+//10/24/2019
+//Write a program that allows the user to input a number of seconds and output them in total of hours, minutes, and seconds. 
+//Use new knowledge of the modulus operator.
+
 package rb_ch3_examplespt2;
 
 import java.util.Scanner;
