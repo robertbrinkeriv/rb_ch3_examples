@@ -1,3 +1,11 @@
+//HEADER
+//Chapter 3 Exercise 4
+//Robert Brinker IV
+//CS160 Fall 2019
+//10/24/2019
+//Write a program that allows a user to input a random number, at or between 1 and 100, and have the computer tell the user if they guessed 
+//the right number. If they do not guess the right number, they will be told the amount between their guess number and the correct one.
+
 package rb_ch3_examplespt3;
 
 import java.util.Random;
